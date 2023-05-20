@@ -1,0 +1,3 @@
+6311,software Engineering Basics,85
+6245,telecommunication networks,67
+6454,software testing,75
